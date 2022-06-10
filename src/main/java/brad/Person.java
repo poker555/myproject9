@@ -2,7 +2,7 @@ package brad;
 
 public class Person
 {
-    public void Greeting()
+    public void greeting()
     {
         System.out.println("Hello");
     }
