@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b516e76a-1073-426d-a57c-c56757d051f6" name="Changes" comment="Student Kotlin">
+    <list default="true" id="b516e76a-1073-426d-a57c-c56757d051f6" name="Changes" comment="6/17 class end">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/brad/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/brad/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655447398411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6/17 class end">
+      <created>1655454805511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655454805511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Kotlin" />
     <MESSAGE value="Student Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student Kotlin" />
+    <MESSAGE value="6/17 class end" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/17 class end" />
   </component>
 </project>
